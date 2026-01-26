@@ -1,0 +1,1 @@
+# Alt-Text-for-Images-Injector
